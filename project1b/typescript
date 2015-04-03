@@ -1,0 +1,97 @@
+Script started on Wed 04 Feb 2015 11:00:13 PM PST
+andrewmunoz@ecc-a-17vm14:~/cs202/projects/project1b$ g++ pri[Koject1b.cpp
+andrewmunoz@ecc-a-17vm14:~/cs202/projects/project1b$ ./project1b
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+1
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+2
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+3
+bar 
+6 
+bell 
+5 
+cherry 
+1 
+lemon 
+0 
+orange 
+0 
+7 
+10 
+bar 
+orange 
+orange 
+7 
+lemon 
+lemon 
+lemon 
+lemon 
+7 
+lemon 
+lemon 
+lemon 
+orange 
+bar 
+orange 
+cherry 
+bar 
+lemon 
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+4
+Enter output filename
+output
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+5
+What Reel and Stop Number? :
+0 0
+b 6
+-------Menu-------
+1. Populate the slot machine
+2. Read in existing machine configuration from file
+3. Print current configuration
+4. Print and save configuration to file
+5. Pick a reel and stop number
+6. Quit the Program
+Pick a menu option
+6
+Quitting Program
+andrewmunoz@ecc-a-17vm14:~/cs202/projects/project1b$ exit
+exit
+
+Script done on Wed 04 Feb 2015 11:01:06 PM PST

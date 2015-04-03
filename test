@@ -1,0 +1,10 @@
+Script started on Mon 26 Jan 2015 07:37:29 PM PST
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ make project1a
+make: `project1a' is up to date.
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ ./project1a
+Enter output filename
+out
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ exit
+exit
+
+Script done on Mon 26 Jan 2015 07:38:02 PM PST

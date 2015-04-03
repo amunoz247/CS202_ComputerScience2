@@ -1,0 +1,9 @@
+Script started on Mon 26 Jan 2015 06:57:07 PM PST
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ gedit project1a.cpp[5Pmake project1a
+make: `project1a' is up to date.
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ make project1agedit project1a.cpp[5Pmake project1agedit project1a.cpp[5Pmake project1a[K[K[K[K[K[K[K[K[K[K[K[K[K[K./ project1a
+bash: ./: Is a directory
+andrewmunoz@ecc-d-01vm14:~/cs202/projects$ exir[Kt
+exit
+
+Script done on Mon 26 Jan 2015 06:59:00 PM PST
